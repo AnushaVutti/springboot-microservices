@@ -10,6 +10,7 @@
         <module name="inventoryservice" />
         <module name="api-gateway" />
         <module name="discovery-server" />
+        <module name="notification-service" />
         <module name="productservice" />
         <module name="orderservice" />
       </profile>
@@ -20,6 +21,7 @@
       <module name="api-gateway" options="-parameters" />
       <module name="discovery-server" options="-parameters" />
       <module name="inventoryservice" options="-parameters" />
+      <module name="notification-service" options="-parameters" />
       <module name="orderservice" options="-parameters" />
       <module name="productservice" options="-parameters" />
     </option>
